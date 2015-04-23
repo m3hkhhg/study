@@ -1,0 +1,5 @@
+1、python
+2、测试理论、技术
+3、android开发基础
+4、iOS开发基础
+5、Android、iOS自动化技术
